@@ -8,3 +8,4 @@ Data can be found at [http://bit.ly/w-data](http://bit.ly/w-data) <br>
 
 #### Question: What will be predicted score if a student study for 9.25 hrs in a day?
 #### Answer: [Link to the solution](https://github.com/kanchitank/GRIP-Task-2-Solution/blob/master/TaskSolution.ipynb)
+#### Solution Video: [Link to the solution video](https://github.com/kanchitank/GRIP-Task-2-Solution/blob/master/Task%232SolutionVideo.mp4)
